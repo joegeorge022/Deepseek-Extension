@@ -22,6 +22,12 @@ This extension uses the DeepSeek-Coder model through Ollama, providing a lightwe
 - 🎯 **Developer-Centric**: Optimized for programming-related queries
 - 🛠 **Simple Interface**: Clean, distraction-free chat UI
 
+## Credits 
+[Fireship.io](https://github.com/fireship-io)
+
+Check out this video: [I built a DeepSeek R1 powered VS Code extension…
+](https://www.youtube.com/watch?v=clJCDHml2cA)
+
 ## Prerequisites
 
 Before using this extension, ensure you have:
@@ -103,6 +109,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 [MIT License](LICENSE)
+
+
 
 ## Privacy Notice
 
