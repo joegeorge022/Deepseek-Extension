@@ -1,6 +1,6 @@
 # DeepSeek Clone - VS Code Extension
 
-A Visual Studio Code extension that brings the power of DeepSeek's language model directly into your editor through Ollama. Chat with DeepSeek's AI model without leaving your development environment.
+A VS Code extension that brings the power of DeepSeek's language model directly into your editor through Ollama. Chat with DeepSeek's AI model without leaving your development environment.
 
 ## About DeepSeek
 
