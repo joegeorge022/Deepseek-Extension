@@ -43,7 +43,7 @@ Before using this extension, ensure you have:
 
 ## Installation
 
-1. Install the extension from VS Code Marketplace
+1. Install the extension from VS Code Marketplace (not yet in marketplace.)
 2. Ensure Ollama is running on your system
 3. Make sure you've pulled the DeepSeek model as mentioned above
 
@@ -98,7 +98,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Release Notes
+## Release Notes (not yet released officially.)
 
 ### 1.0.0
 - Initial release
